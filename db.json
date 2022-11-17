@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "email": "mena@suchito.com",
+            "password": 123456,
+            "roles":{
+              "admin": true  
+            } 
+        }
+    ]
+}
